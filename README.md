@@ -26,7 +26,7 @@ brew install freeglut
 Created by:
 PRIYANSHU VERMA
 Registration Number : 22190503040
-Central University of Jharkhand
+entral University of Jharkhand
 Integrated BTECH MTECH (5year) in Computer Science and Engineering (Honors.) Specialization with Machine learning and Data Science
 Department of Computer Science and Engineering 
 Mobile Number -- 7376021218
